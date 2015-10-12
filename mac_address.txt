@@ -1,0 +1,2 @@
+# Case insensitive mac address match (with : as delimeter)
+(?i)(^([0-9A-F]{2}[:-]){5}([0-9A-F]{2})$)
